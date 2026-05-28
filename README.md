@@ -158,3 +158,19 @@ systemctl status nginx
 ## Outcome
 
 Successfully created a secure AWS infrastructure using Bastion Host architecture and securely accessed a private EC2 server from a public EC2 instance. Installed and configured NGINX on the private EC2 server.
+## Project Screenshots
+
+### VPC
+![VPC](screenshots/vpc.png)
+
+### Bastion Host
+![Bastion](screenshots/bastion.png)
+
+### Private EC2
+![Private](screenshots/private.png)
+
+### SSH Connection
+![SSH](screenshots/ssh.png)
+
+### NGINX
+![NGINX](screenshots/nginx.png)
